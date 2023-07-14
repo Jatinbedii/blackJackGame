@@ -1,0 +1,25 @@
+h1{
+    color:gold;
+    font-size: 400%;
+   
+}
+body{
+    text-align: center;
+    background-color: rgb(1, 117, 1);
+    color: white;
+}
+#message-el{
+    font-style: italic;
+    font-size: 250%;
+    
+}
+button{
+    height: 50px;
+    background-color: red;
+    color: white;
+    border-radius: 20%;
+
+}
+p{
+    font-size: 200%;
+}
