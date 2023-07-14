@@ -1,6 +1,6 @@
-# blackJackGame
+
 Black Jack game from free code camp tutorial.
-Tech USed:
+Made with
 CSS
 HTML
 JAVASCRIPT
